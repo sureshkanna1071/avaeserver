@@ -1,0 +1,199 @@
+[
+    {
+        "range_id": 1,
+        "range_title": "Ice Cream Pizza",
+        "bgi_url": "https://i.ibb.co/svBVsD6/icpizza.jpg"
+    },
+    {
+        "range_id": 2,
+        "range_title": "Ice Cream Rocks",
+        "bgi_url": "https://i.ibb.co/sJ8TdqF/icrocks.png"
+    },
+    {
+        "range_id": 3,
+        "range_title": "Scoops",
+        "bgi_url": "https://i.ibb.co/YcRGXXg/scoops.jpg"
+    },
+    {
+        "range_id": 4,
+        "range_title": "Cheesecake Sundaes",
+        "bgi_url": "https://i.ibb.co/7Y6xsPj/cheesecake.png"
+    },
+    {
+        "range_id": 5,
+        "range_title": "Ice Cream Cakes",
+        "bgi_url": "https://i.ibb.co/3fxNfJf/iccakes.jpg"
+    },
+    {
+        "range_id": 6,
+        "range_title": "Ice Cream Sandwich",
+        "bgi_url": "https://i.ibb.co/wsBfKp7/icsandwich.jpg"
+    },
+    {
+        "range_id": 7,
+        "range_title": "Fairytale Sundaes",
+        "bgi_url": "https://i.ibb.co/tDvJ1Lq/fairysundae.jpg"
+    },
+    {
+        "range_id": 8,
+        "range_title": "Combos",
+        "bgi_url": "https://i.ibb.co/NNYCYCV/combo.jpg"
+    },
+    {
+        "blog_id": 1,
+        "blog_title": "Here Are 7 Delicacies To Satiate Those Summer Cravings Before The Season Comes To A Close",
+        "blog_content": "May is coming to an end but the summer heat is still at its peak. Mumbai has started to see a few cloudy days and some parts have even experienced a little drizzle owing to the rains in South-India so we can expect summer to come to a close soon.",
+        "blog_imgurl": "https://i.ibb.co/cQYm3FL/blog-1.webp",
+        "blog_pageurl": "https://www.whatshot.in/mumbai/here-are-7-delicacies-to-satiate-those-summer-cravings-before-the-season-comes-to-a-close-c-36061"
+    },
+    {
+        "blog_id": 2,
+        "blog_title": "5 new ice cream flavours to elevate your dessert menu this summer",
+        "blog_content": "Digging into that scoop of cold, delicious ice cream is one of the greatest pleasures of life. Any party is incomplete without a soothing array of desserts, mostly ice creams. ",
+        "blog_imgurl": "https://i.ibb.co/c6Vd71c/blog-2.webp",
+        "blog_pageurl": "https://www.lifestyleasia.com/ind/food-drink/five-new-ice-cream-flavours-to-elevate-your-dessert-keventers-hersheys-menu-this-summer/"
+    },
+    {
+        "blog_id": 3,
+        "blog_title": "This Thanksgiving Day, surprise your loved ones with these 5 gifts",
+        "blog_content": "Thanksgiving is just around the corner and it’s likely that many of us are on the lookout for gifts for our loved ones. And chances are, we might not know what to give them.",
+        "blog_imgurl": "https://i.ibb.co/NNYCYCV/combo.jpg",
+        "blog_pageurl": "https://www.apnnews.com/this-thanksgiving-day-surprise-your-loved-ones-with-these-5-gifts/"
+    },
+    {
+        "name": "Cookies N Cream",
+        "product_id": 1,
+        "range_id": 1,
+        "image_url": "https://i.ibb.co/svBVsD6/icpizza.jpg",
+        "description": "Cookies N' Cream ice cream on a rich belgian chocolate brownie crust, loaded with chocolate chips and chocolate sauce. A slice of everything nice.",
+        "price": 400,
+        "isAllTimeFav": true,
+        "isNew": false,
+        "toppings": true,
+         "isVeg": true,
+         "category": "fruits"
+      },{
+          "name": "Cotton Candy Ice Cream Rocks",
+          "product_id": 2,
+          "range_id": 2,
+          "image_url": "https://i.ibb.co/sJ8TdqF/icrocks.png",
+          "description": "Playful bite-sized Cotton Candy ice cream coated with raspberry flavoured White Choco-dip",
+          "price": 150,
+          "isAllTimeFav": true,
+          "isNew": false,
+          "toppings": true,
+           "isVeg": true,
+           "category": "nuts"
+        },{
+          "name": "Fresh Very Berry Strawberry Ice cream",
+          "product_id": 3,
+          "range_id": 3,
+          "image_url": "https://i.ibb.co/YcRGXXg/scoops.jpg",
+          "description": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, it?s an all time favourite! (Contains Milk)",
+          "price": 390,
+          "isAllTimeFav": true,
+          "isNew": false,
+          "toppings": true,
+           "isVeg": true,
+           "category": "chocolate"
+        },{
+          "name": " Cheesecake with Lotus Biscoff Ice Cream and Butterscotch Sauce",
+          "product_id": 4,
+          "range_id": 4,
+          "image_url": "https://i.ibb.co/7Y6xsPj/cheesecake.png",
+          "description": "Baked cheesecake with Lotus Biscoff ice cream, caramel sauce, and whipped cream. Unexpectedly delightful!",
+          "price": 188,
+          "isAllTimeFav": true,
+          "isNew": false,
+          "toppings": true,
+           "isVeg": true,
+           "category": "chocolate"
+        },{
+          "name": "Chocolate Truffle Cake",
+          "product_id": 5,
+          "range_id": 5,
+          "image_url": "https://i.ibb.co/3fxNfJf/iccakes.jpg",
+          "description": "The signature BR Bavarian chocolate ice cream sandwiched between gooey chocolate sponge cakes. Decorated with decadent milk and dark chocolate swirls and cigars. Highly recommend this chocolate therapy!",
+          "price": 850,
+          "isAllTimeFav": true,
+          "isNew": false,
+          "toppings": true,
+           "isVeg": true,
+           "category": "chocolate"
+        },{
+          "name": "Italian Wafer Sandwich - Vanilla",
+          "product_id": 6,
+          "range_id": 6,
+          "image_url": "https://i.ibb.co/wsBfKp7/icsandwich.jpg",
+          "description": "Crunchy. Creamy. Irresistible. Classic Vanilla ice cream wrapped in perfectly golden brown Italian wafer crisps dipped in a rich hot fudge sauce. Sprinkled with coloured sprinkles or chopped almonds- your choice. Divine, indeed.",
+          "price": 699,
+          "isAllTimeFav": true,
+          "isNew": false,
+          "toppings": true,
+           "isVeg": true,
+           "category": "fruits"
+        },{
+          "name": "Mermaid Sundae",
+          "product_id": 7,
+          "range_id": 7,
+          "image_url": "https://i.ibb.co/tDvJ1Lq/fairysundae.jpg",
+          "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae!",
+          "price": 299,
+          "isAllTimeFav": false,
+          "isNew": true,
+          "toppings": true,
+           "isVeg": true,
+           "category": "nuts"
+        },{
+          "name": "2 Regular Milk Shakes + 1 Slice Cake",
+          "product_id": 8,
+          "range_id": 8,
+          "image_url": "https://i.ibb.co/NNYCYCV/combo.jpg",
+          "description": "",
+          "price": 300,
+          "isAllTimeFav": false,
+          "isNew": true,
+          "toppings": false,
+           "isVeg": true
+        },{
+          "name": "1 Lava Cake Sundae + 1 Brownie Sundae",
+          "product_id": 9,
+          "range_id": 8,
+          "image_url": "https://i.ibb.co/M5ZkdQw/lava-cake.jpg",
+          "description": "",
+          "price": 400,
+          "isAllTimeFav": false,
+          "isNew": true,
+          "toppings": false,
+           "isVeg": true,
+           "category": "nuts"
+        },{
+          "name": "Pralines 'N Cream",
+          "product_id": 10,
+          "range_id": 1,
+          "image_url": "https://i.ibb.co/NThtRbf/icpizza.jpg",
+          "description": "Vanilla Ice Cream loaded with praline pecans on a rich belgian chocolate brownie crust and topped with pecan pralines and caramel sauce. Pizza just got a whole new meaning.",
+          "price": 599,
+          "isAllTimeFav": false,
+          "isNew": true,
+          "toppings": false,
+           "isVeg": true
+        },{
+          "name": "Berry Bubble Super-Duper Thickshake",
+          "product_id": 11,
+          "range_id": 8,
+          "image_url": "https://i.ibb.co/1qFK0D5/shake.jpg",
+          "description": "The talk of the town ? a unique thickshake packed with flavour and crunch and made with creamy vanilla ice cream and Lotus Biscoff. Crowned with a whipped cream swirl and lotus biscuit crumble. A must try!",
+          "price": 160,
+          "isAllTimeFav": false,
+          "isNew": true,
+          "toppings": false,
+           "isVeg": true
+        }
+]
+
+
+    
+
+
+    
