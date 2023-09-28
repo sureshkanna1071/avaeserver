@@ -9,9 +9,7 @@ async function connectDB() {
     await client.connect();
 }
 
-let db = client.db(
-    "Avae"
-    )
+let db = client.db("Avae");
 
 async function getData(collectionName, query) {
     let output;

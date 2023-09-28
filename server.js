@@ -8,7 +8,7 @@ const Razorpay = require('razorpay');
 const env = require('dotenv').config();
 
 const corsOptions = {
-    origin: ['https://avae.vercel.app', 'http://localhost:3000'],
+    origin: ['https://avae.vercel.app', 'http://localhost:3000', 'https://www.avae.app'],
   };
 
 app.use(bodyParser.json(), bodyParser.urlencoded({extended: 'true'}));
@@ -60,7 +60,7 @@ app.post("/categories", async(req, res) => {
     let collectionName = "categories"
     let data = req.body
     let output = await postMultipleData(collectionName, data)
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.get("/categories", async(req, res) => {
@@ -88,7 +88,7 @@ app.post("/astral", async(req, res) => {
     let collectionName = "astral"
     let data = req.body
     let output = await postMultipleData(collectionName, data)
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.get("/pyro", async(req, res) => {
@@ -102,7 +102,7 @@ app.post("/pyro", async(req, res) => {
     let collectionName = "pyro"
     let data = req.body
     let output = await postMultipleData(collectionName, data)
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.get("/aquagem", async(req, res) => {
@@ -116,7 +116,7 @@ app.post("/aquagem", async(req, res) => {
     let collectionName = "aquagem"
     let data = req.body
     let output = await postMultipleData(collectionName, data);
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.get("/terra", async(req, res) => {
@@ -130,7 +130,7 @@ app.post("/terra", async(req, res) => {
     let collectionName = "terra"
     let data = req.body
     let output = await postMultipleData(collectionName, data)
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.get("/airtron", async(req, res) => {
@@ -151,7 +151,7 @@ app.post("/airtron", async(req, res) => {
     let collectionName = "airtron"
     let data = req.body
     let output = await postMultipleData(collectionName, data)
-    res.send({"message": "Order placed successfully", "response": output});
+    res.send({"message": "added successfully", "response": output});
 });
 
 app.put("/order", async(req, res) => {
@@ -159,7 +159,7 @@ app.put("/order", async(req, res) => {
     let condition = {email: req.body.email}
     let collectionName = "order"
     let output = await updateData(collectionName, condition, data)
-    res.send({"message": "Order Updated successfully", "response": output});
+    res.send({"message": "Order created successfully", "response": output});
 });
 
 app.listen(port, () => {
