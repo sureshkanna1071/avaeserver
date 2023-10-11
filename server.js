@@ -20,7 +20,7 @@ const razorpay = new Razorpay({
   });
 
 app.get("/", (req, res) => {
-    res.send("<h1>Express server</h1>")
+    res.send("server online")
 })
 
 app.post("/orders", (req, res) => {
